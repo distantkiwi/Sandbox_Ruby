@@ -1,4 +1,4 @@
-#learn ruby the hardway
+#learn ruby the hardway - My notes
 firstArg = ARGV.first
 first, anotherARG, yetAnotherARG = ARGV
 skip = ARGV.empty?
