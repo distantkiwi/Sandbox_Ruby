@@ -1,3 +1,4 @@
+#this code was given by the author of "Learn Ruby The Hard Way" with bugs in it, this is my debugged version
 module Ex25
 
   # This function will break up words for us.
